@@ -20,4 +20,8 @@ dfu-util -D kiibohd.dfu.bin
 7. Success log looks like firmware-upgrade.log
 8. once upgrade is done, led will come back online and keyboard will be responding with new key settings.
 
+Note:
+Current bin uses key mapping shown in whitefox-keymap.jpg
+If need to change the mapping, use
+https://input.club/configurator-whitefox/
 
