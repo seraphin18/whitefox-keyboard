@@ -24,4 +24,5 @@ Note:
 Current bin uses key mapping shown in whitefox-keymap.jpg
 If need to change the mapping, use
 https://input.club/configurator-whitefox/
+also i-c link can import map, just copy paste the .json file content in .zip to see the mapping.
 
