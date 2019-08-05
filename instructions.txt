@@ -1,7 +1,5 @@
 1. Use Input-Club's configurator for key mapping
-  See whitefox-keymap.jpg for end result
-  https://input.club/configurator-whitefox/
-  For generated zip, see uploaded zip
+  See input-config directory for details
 2. Use Karabiner-Elements for key swapping
   After step #1, there's one key left with a problem
   `(grave accent and tilde) is input as §(Section sign)
